@@ -22,3 +22,9 @@ As I addressed each of the above issues, another set of issues arose within that
 ## Takeaways
 
 Overall, I'm happy I figured it out. With more practice, I hope writing functions will become easier.
+
+## See my work!
+
+![The password generator prompts the user with criteria and generates a password that meets the criteria](./Assets/03-javascript-homework-demo.png)
+
+Click on this [link](https://alisabevers.github.io/password-generator-js/) to see the webpage, live!
